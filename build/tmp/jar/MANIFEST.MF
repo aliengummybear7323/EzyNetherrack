@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: ezynetherrack
+Specification-Vendor: Oscar Insh
+Specification-Version: 1
+Implementation-Title: EzyNetherrack
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor: Oscar Insh
+Implementation-Timestamp: 2026-06-05T17:13:49+0100
+
