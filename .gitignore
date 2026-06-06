@@ -2,7 +2,7 @@
 .gradle/
 build/
 out/
-gradle
+!gradle/wrapper/gradle-wrapper.jar
 
 # IntelliJ IDEA
 .idea/
@@ -18,13 +18,18 @@ gradle
 
 # Minecraft / Forge dev environment
 run/
+run-data/
 logs/
 *.log
+hs_err_pid*.log
+src/generated
+src/test
 
 # OS junk
 .DS_Store
 Thumbs.db
 
-# Other temporary files
+# Temporary files
 *.tmp
 *.bak
+*.swp

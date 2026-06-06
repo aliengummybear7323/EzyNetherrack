@@ -1,9 +1,18 @@
 {
   "type": "create:haunting",
   "ingredients": [
-    { "item": "minecraft:gravel" }
+    {
+      "item": "minecraft:gravel"
+    }
   ],
   "results": [
-    { "item": "minecraft:netherrack", "count": 1 }
+    {
+      "item": "minecraft:netherrack",
+      "chance": 0.9
+    },
+    {
+      "item": "minecraft:gunpowder",
+      "chance": 0.1
+    }
   ]
 }
