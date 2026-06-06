@@ -1,0 +1,30 @@
+# Gradle
+.gradle/
+build/
+out/
+gradle
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VSCode
+.vscode/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Minecraft / Forge dev environment
+run/
+logs/
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Other temporary files
+*.tmp
+*.bak
